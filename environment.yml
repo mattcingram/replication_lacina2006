@@ -1,7 +1,14 @@
-name: python 2.7
+name: python 3.5.2
 dependencies:
-  - python=2.7
+  - python=3.5.2
   - numpy
   - pandas
   - pysal
   - pyshp
+  - os
+  - io
+  - requests
+  - matplotlib
+  - sklearn
+  - statsmodels.formula.api
+  - seaborn
